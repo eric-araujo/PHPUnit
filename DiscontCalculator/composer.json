@@ -1,0 +1,14 @@
+{
+    "name": "erica/discont-calculator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eric Araújo Lima",
+            "email": "eric.araujolima@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "9.3"
+    }
+}

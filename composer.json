@@ -1,0 +1,12 @@
+{
+    "name": "erica/php-unit",
+    "authors": [
+        {
+            "name": "Eric Araújo Lima",
+            "email": "eric.araujolima@hotmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.23"
+    }
+}
